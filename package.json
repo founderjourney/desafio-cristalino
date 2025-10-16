@@ -1,0 +1,19 @@
+{
+  "name": "landing-poder-interior",
+  "version": "1.0.0",
+  "description": "Landing page para webinar Los 3 Secretos para Desatar tu Poder Interior como Empresario",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static HTML build complete'",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "landing-page",
+    "webinar",
+    "poder-interior",
+    "tomas-gracia"
+  ],
+  "author": "Tomás Gracia",
+  "license": "MIT"
+}
